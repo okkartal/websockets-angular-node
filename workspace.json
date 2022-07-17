@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "server": "packages/server",
+    "types": "packages/types",
+    "webapp": "packages/webapp",
+    "webapp-e2e": "packages/webapp-e2e"
+  }
+}
